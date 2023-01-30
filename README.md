@@ -5,6 +5,6 @@
 ![Screenshot_20230130_101108](https://user-images.githubusercontent.com/74202040/215389325-3355d323-671a-47a9-bcfa-3e0b349495b6.png)
 ![Screenshot_20230130_101122](https://user-images.githubusercontent.com/74202040/215389327-ee801e9a-6ddf-44d7-959c-2a49b913e8c1.png)
 
-### Youtuv=be Source :- https://www.youtube.com/watch?v=jx5hdo50a2M
+### Youtube Source :- https://www.youtube.com/watch?v=jx5hdo50a2M
 ### Github Source :- https://github.com/milk-2-dev/shoppy-dashboard
 ### Github Search Source :- https://github.com/search?q=shoppy-dashboard
